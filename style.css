@@ -11,3 +11,12 @@ body{
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+button{
+    position: absolute;
+    top: 105%;
+    left: 38%; 
+}
+a{
+    text-decoration: none;
+    color: purple;
+}
